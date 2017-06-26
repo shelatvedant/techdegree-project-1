@@ -67,7 +67,7 @@ nav a {
 
 header {
   text-align: center;
-  background: url('images/paris.jpg') no-repeat top right ;
+  background: url('Images/Paris.jpg') no-repeat top right ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -163,13 +163,13 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(images/twitter.svg);
+  background-image: url(Images/Twitter.svg);
 }
 a.linkedin {
-  background-image: url(images/linkedin.svg);
+  background-image: url(Images/Linkedin.svg);
 }
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(Images/Github.svg);
 }
 a.social:hover {
   opacity: 1;
